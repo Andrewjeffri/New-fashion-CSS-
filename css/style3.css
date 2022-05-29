@@ -1,0 +1,119 @@
+*{
+    font-family:  'Montserrat', sans-serif;
+    margin: 0;
+    padding: 0;
+
+}
+section{
+    margin-top: -150px;
+}
+
+.bot-hed{
+    margin-bottom: 50px;
+}
+.top-hed{
+    margin-top: 50px;
+}
+ul{
+    list-style: none;
+    background-color: #187498;
+    padding:10px ;
+
+}
+
+
+li{
+    display: inline;
+}
+li:hover{
+    color: red;
+}
+.login-img{
+    width: 25px;
+    height: 25px;
+}
+.login-img:hover{
+    background-color: red;
+    border-radius: 100%;
+}
+header{
+    width: 1500px;
+    height: 200px;
+}
+
+.top{
+    margin: 0 200px 0;
+    text-decoration: none;
+}
+.top:hover{
+    color: red;
+
+}
+body{
+    background-image: url(../images/login-back.png);
+    background-size:cover;
+    background-repeat: no-repeat;
+    width: 100vh;
+    height: 100vh; 
+  }
+  .login-imgs{
+      width: 200px; 
+      height: 200px;
+      position: relative;
+      left: 275px;
+      margin: -18px auto 50px;
+  
+  }
+  .h1{
+      color:#0bb0d5f2 ;
+      font-size: 50px;
+      position: relative;
+      left: 150px;
+      margin: 50px;
+
+  }
+  label{
+      color:#0bb0d5f2 ;
+      font-size: 20px;
+      position: relative;
+      left: 250px;
+  }
+  input{
+      font-size: 20px;
+      width: 250px;
+      height: 25px;
+      position: relative;
+      left: 250px;
+  }
+  .sub-btn{
+      color: white;
+      background-color: #577BC1;
+      width: 100px;
+      height: 30px;
+  }
+  input:hover{
+      color:rgb(57, 27, 27) ;
+      background-color: #92B4EC;
+  }
+.placeholder{
+      color: brown;
+  }
+a{
+    text-decoration: none;
+    color: white;
+}
+a:hover{
+    color: red;
+}
+
+
+footer{
+    color: #CEAB93;
+    width: 5%;;
+    width: 1489.5px;
+    height: 50px;
+    background-color: #187498;
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 25px;
+}

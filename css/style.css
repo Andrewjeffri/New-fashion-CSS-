@@ -1,0 +1,116 @@
+*{
+    font-family:  'Montserrat', sans-serif;
+    margin: 0;
+    padding: 0;
+
+}
+body{
+    background-color:rgb(255, 253, 253); 
+    color: #CEAB93;
+    border: solid 5px;
+
+}
+
+ul{
+    list-style: none;
+    background-color: #EFEFEF;
+    padding:10px ;
+}
+
+li{
+    display: inline;
+}
+li:hover{
+    color: red;
+}
+.login-img{
+    width: 25px;
+    height: 25px;
+}
+.login-img:hover{
+    background-color: red;
+    border-radius: 100%;
+}
+
+
+.top{
+    margin: 0 200px 0;
+    text-decoration: none;
+}
+.heading{
+    text-align: center;
+    font-size: 40px;
+    color: #F66B0E;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+.sub-heading{
+    font-size: 30px;
+    color:brown;
+    margin-top: 50px;
+}
+.home-img{
+    position: relative;
+    background-color:white;
+    float: right;
+    border-left: dotted 5px #FAD4D4;
+   
+}
+.sec-one{
+    color: #B2B8A3;
+    width: 1200px;
+    height: 585px;
+    margin: 0 auto 10px;
+}
+.btn{
+    text-align: center;
+    width:90px;
+    border-radius: 10%;
+    height: 20px;
+    padding: 8px;
+    background-color:#FF7171;
+    position: relative;
+    left: 70px;
+    color: black;
+
+}
+.btn:hover{
+    background-color:red ;
+    color:black;
+   
+
+}
+
+footer{
+    color: #CEAB93;
+    width: 5%;;
+    width: 1500px;
+    height: 50px;
+    background-color: #EFEFEF;
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 25px;
+
+}
+.hr-line-two{
+    border-style: dotted;
+    border-bottom: none;
+    border-width:8px;
+    border-color:#C2DED1;
+    width: 5%;
+    margin: auto;
+   
+}
+.top:hover{
+    color: red;
+
+}
+a:hover{
+    color: black;
+}
+a{
+    text-decoration: none;
+    color: black;
+hr{
+    border-width: 3px;
+}
